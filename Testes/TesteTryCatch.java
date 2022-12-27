@@ -1,5 +1,5 @@
 package Testes;
-import Base.ContaPrincipal;
+// import Base.ContaPrincipal;
 
 public class TesteTryCatch {
     public static void main(String[] args) {
@@ -40,9 +40,8 @@ public class TesteTryCatch {
             System.out.println(i);
             // Problemas
             // - int a = i / 0;
-            ContaPrincipal cp = null;
-            cp.depositar();
-
+            // ContaPrincipal cp = null;
+            // cp.depositar();
         } 
         System.out.println("Fim do Metodo 2");
     }
