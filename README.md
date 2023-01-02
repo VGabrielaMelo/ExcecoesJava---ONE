@@ -25,7 +25,13 @@
 ## Multi Catch
 - 
 
-## Throw
+## Throw / Throws
+- 
+
+## Finally 
+- 
+
+## Try with resourse
 - 
 
 ## Checked e Unchecked
